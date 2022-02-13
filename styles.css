@@ -43,7 +43,7 @@ input[type=email], input[type=password] {
 
 @media only screen and (min-width: 600px) and (max-width: 1100px) {
   body {
-    max-width: 100px;
+    max-width: 10px;
     margin: 37px auto;
     width: 80%;
     clear: both;
